@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/webincore/static/css/main.21718ee0.css",
+    "main.js": "/webincore/static/js/main.c6779a02.js",
+    "static/media/Lena.jpg": "/webincore/static/media/Lena.fadcec86759961e6eb88.jpg",
+    "static/media/gu.png": "/webincore/static/media/gu.797349839cf07e9a35c8.png",
+    "index.html": "/webincore/index.html",
+    "static/media/dots_icon.svg": "/webincore/static/media/dots_icon.d141e213d1b155ab903c80976edc1e15.svg",
+    "main.21718ee0.css.map": "/webincore/static/css/main.21718ee0.css.map",
+    "main.c6779a02.js.map": "/webincore/static/js/main.c6779a02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21718ee0.css",
+    "static/js/main.c6779a02.js"
+  ]
+}
